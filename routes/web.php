@@ -11,7 +11,8 @@
 |
 */
 
-Route::get('/', function () {
-    return view('index');
-});
+//Route::get('/', function () {
+//    return view('/pages/home');
+//});
 //Route::get('/','GuzzleController@getRemoteData');
+Route::get('/', 'HomeController@home');
