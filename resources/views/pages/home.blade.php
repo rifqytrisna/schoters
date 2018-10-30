@@ -38,6 +38,59 @@
     </div>
 </div>
 
+<div class="container card-wrap"style="padding-left: 50px">
+    <div class="card" style="width: 500px;">
+        <div class="card-body">
+            <h5 class="card-title">Scholarships catergories
+                <a href="#" data-toggle="modal" data-target="#exampleModalCenter">
+                    <i class="fas fa-pencil-alt"></i>
+                </a>
+            </h5>
+            <hr>
+            <div>
+                <ul id="notSelectable">
+                    <li>S1/Bachelor</li>
+                    <li>S2/Master</li>
+                    <li>S3/Ph.D</li>
+                    <li>Short Course</li>
+                    <li>5</li>
+                    <li>6</li>
+                    <li>7</li>
+                    <li>8</li>
+                    <li>9</li>
+                    <li>10</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="container card-wrap"style="padding-left: 50px">
+    <div class="card" style="width: 500px;">
+        <div class="card-body">
+            <h5 class="card-title">Scholarships catergories
+                <a href="#" data-toggle="modal" data-target="#exampleModalCenter">
+                    <i class="fas fa-pencil-alt"></i>
+                </a>
+            </h5>
+            <hr>
+            <div>
+                <ul id="notSelectable">
+                    <li>S1/Bachelor</li>
+                    <li>S2/Master</li>
+                    <li>S3/Ph.D</li>
+                    <li>Short Course</li>
+                    <li>5</li>
+                    <li>6</li>
+                    <li>7</li>
+                    <li>8</li>
+                    <li>9</li>
+                    <li>10</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+
 <!-- Modal -->
 <div class="modal fade" id="exampleModalCenter" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
     <div class="modal-dialog modal-dialog-centered" role="document">

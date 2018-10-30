@@ -5,7 +5,7 @@
 <!-- * Time: 16.05-->
 <!-- */-->
 
-<nav class="navbar navbar-expand-md navbar-light">
+<nav class="navbar fixed-top navbar-expand-md navbar-light">
     <div class="container-fluid">
 
         <button type="button" id="sidebarCollapse" class="btn btn-light">

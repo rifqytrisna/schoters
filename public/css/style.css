@@ -47,6 +47,7 @@ a:focus {
     background-color:#ffffff;
     width: 550px!important;
     padding-left: 10px;
+    /*padding-bottom:10px;*/
 
 }
 .search-box:focus{
@@ -179,8 +180,10 @@ a[data-toggle="collapse"] {
     top: 0;
     right: 0;
 }
+.breadcrumb{margin-top: 100px;}
 .breadcrumb-item:hover{
-    color: #38c4ca;}
+    color: #38c4ca;
+}
 .card-title{width: 350px; margin: 0!important;}
 .fa-pencil-alt{font-size: medium; transform: translateX(160px)}
 * {margin: 0; padding: 0;}
